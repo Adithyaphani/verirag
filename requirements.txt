@@ -1,0 +1,13 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+rank-bm25
+arxiv
+networkx
+scikit-learn
+gradio
+pypdf
+requests
+numpy
+huggingface_hub

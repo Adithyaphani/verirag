@@ -1,0 +1,10 @@
+[
+  "What is the surface code and why is it considered promising for fault tolerance?",
+  "How do logical qubits protect against errors compared to physical qubits?",
+  "What decoding algorithms are used for the surface code and how do they differ?",
+  "What is the threshold theorem for quantum error correction?",
+  "How does magic state distillation enable universal fault-tolerant computation?",
+  "What are quantum LDPC codes and how do they compare to surface codes in overhead?",
+  "How do bosonic codes like cat codes or GKP codes correct errors?",
+  "What experimental milestones have been reached in demonstrating error correction?"
+]
